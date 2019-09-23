@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/sqljdbc_4.2.8112.200_chs.tar/sqljdbc_4.2.8112.200_chs/sqljdbc_4.2/chs/jre8/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="sqljdbc42.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
